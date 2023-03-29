@@ -6,7 +6,7 @@ subtitle: Google Scolar | GitHub | LinkedIn |
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>+82-2-2123-7724</p>
