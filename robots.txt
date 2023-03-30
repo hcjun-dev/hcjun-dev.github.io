@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hcjun-dev.github.io//sitemap.xml
+Sitemap: https://hcjun-dev.github.io/sitemap.xml
