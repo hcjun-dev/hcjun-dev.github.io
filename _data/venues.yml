@@ -4,3 +4,11 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"MobiSys":
+  url: https://dl.acm.org/conference/mobisys
+  color: "#5082B6"
+  
+"CODES+ISSS":
+  url: https://dl.acm.org/conference/codes
+  color: "#0A2A57"
